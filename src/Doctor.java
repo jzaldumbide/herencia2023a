@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Doctor {
+public class Doctor extends Persona{
+    public Doctor(){super();}
 }
